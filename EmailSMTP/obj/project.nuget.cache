@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQ6n2+AeRfxvTw/2pFAykB70O7i5GWe9qoqqmChPywrkEILwG3Cjg8sPamBd30O9btf5hAn+j8+sMeRA/gbYQg==",
+  "success": true,
+  "projectFilePath": "C:\\Education\\Projects\\Email\\EmailSMTP\\EmailSMTP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\easendmail\\7.7.0.5\\easendmail.7.7.0.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

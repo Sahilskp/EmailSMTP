@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EASendMail/7.7.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/EASendMail.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/EASendMail.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EASendMail/7.7.0.5": {
+      "sha512": "O6Yt0bJBshWwZg1dzuHDLNOzlDHuGgSetmamkAPcG2xFiAULH4xloqrv3qZAfN05ldgGqbDzoEACH2SVyjKfiw==",
+      "type": "package",
+      "path": "easendmail/7.7.0.5",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "easendmail.7.7.0.5.nupkg.sha512",
+        "easendmail.nuspec",
+        "lib/net11/EASendMail.dll",
+        "lib/net20-cf/EASendMail.dll",
+        "lib/net20/EASendMail.dll",
+        "lib/net35-cf/EASendMail.dll",
+        "lib/net35/EASendMail.dll",
+        "lib/net40/EASendMail.dll",
+        "lib/net45/EASendMail.dll",
+        "lib/net461/EASendMail.dll",
+        "lib/netcoreapp2.1/EASendMail.deps.json",
+        "lib/netcoreapp2.1/EASendMail.dll",
+        "lib/portable-win81+wpa81/EASendMail.winmd",
+        "lib/uap10.0/EASendMail.winmd",
+        "tools/init.ps1"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "EASendMail >= 7.7.0.5",
+      "Newtonsoft.Json >= 12.0.3"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Education\\Projects\\Email\\EmailSMTP\\EmailSMTP.csproj",
+      "projectName": "EmailSMTP",
+      "projectPath": "c:\\Education\\Projects\\Email\\EmailSMTP\\EmailSMTP.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "c:\\Education\\Projects\\Email\\EmailSMTP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "EASendMail": {
+            "target": "Package",
+            "version": "[7.7.0.5, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

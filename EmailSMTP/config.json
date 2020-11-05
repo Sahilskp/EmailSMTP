@@ -1,0 +1,11 @@
+{
+    "Parent_info":"C:\\Users\\Admin\\Downloads\\test_data.csv",
+    "Folder1" : "C:\\Education\\Testing\\Test1",
+    "Folder2" : "C:\\Education\\Testing\\Test2",
+    "Folder3" : "C:\\Education\\Testing\\Test3",
+    "Subject" : "4th assessment answer papers",
+    "Body"    : "Dear Parents\n\nKindly find the attachment of 4th assessment answer papers\n\nRegards,\nShamla T.K" ,
+    "User"    : "email",
+    "Password": "passd"
+
+}

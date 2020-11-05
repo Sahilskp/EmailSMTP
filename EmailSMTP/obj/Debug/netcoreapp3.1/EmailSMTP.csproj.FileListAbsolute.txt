@@ -1,0 +1,16 @@
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EmailSMTP.exe
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EmailSMTP.deps.json
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EmailSMTP.runtimeconfig.json
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EmailSMTP.runtimeconfig.dev.json
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EmailSMTP.dll
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EmailSMTP.pdb
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\EASendMail.dll
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.csprojAssemblyReference.cache
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.AssemblyInfoInputs.cache
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.AssemblyInfo.cs
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.csproj.CoreCompileInputs.cache
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.csproj.CopyComplete
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.dll
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.pdb
+C:\Education\Projects\Email\EmailSMTP\obj\Debug\netcoreapp3.1\EmailSMTP.genruntimeconfig.cache
+C:\Education\Projects\Email\EmailSMTP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

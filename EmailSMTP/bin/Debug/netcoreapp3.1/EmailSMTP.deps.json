@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmailSMTP/1.0.0": {
+        "dependencies": {
+          "EASendMail": "7.7.0.5",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "EmailSMTP.dll": {}
+        }
+      },
+      "EASendMail/7.7.0.5": {
+        "runtime": {
+          "lib/netcoreapp2.1/EASendMail.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailSMTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EASendMail/7.7.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O6Yt0bJBshWwZg1dzuHDLNOzlDHuGgSetmamkAPcG2xFiAULH4xloqrv3qZAfN05ldgGqbDzoEACH2SVyjKfiw==",
+      "path": "easendmail/7.7.0.5",
+      "hashPath": "easendmail.7.7.0.5.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}
