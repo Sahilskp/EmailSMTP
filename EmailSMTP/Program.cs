@@ -86,7 +86,7 @@ namespace EmailSMTP
                     // User authentication should use your
                     // email address as the user name.
                     oServer.User = "sahil.shafeeque@outlook.com";
-                    oServer.Password = "$ahil450";
+                    oServer.Password = "$";
 
                     // use 587 TLS port
                     oServer.Port = 587;
